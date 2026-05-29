@@ -35,6 +35,6 @@ This Power BI dashboard analyzes Superstore sales performance, profit trends, cu
 - West region performed better in overall sales
 
 ## Dataset
-Sample Superstore Dataset
+Sample Superstore Dataset https://www.kaggle.com/datasets/yesshivam007/superstore-dataset
 
 
