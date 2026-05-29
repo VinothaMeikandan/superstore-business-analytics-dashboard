@@ -34,5 +34,4 @@ This Power BI dashboard analyzes Superstore sales performance, profit trends, cu
 ## Dataset
 Sample Superstore Dataset
 
-## Author
-Vinotha M
+
