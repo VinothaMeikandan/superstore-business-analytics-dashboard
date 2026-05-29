@@ -4,7 +4,7 @@
 This Power BI dashboard analyzes Superstore sales performance, profit trends, customer segments, and regional insights.
 
 ## Live Preview
-![Dashboard Screenshot](superstore ss.png)
+![Dashboard Screenshot](superstore_ss.png)
 
 ## Tools Used
 - Power BI
