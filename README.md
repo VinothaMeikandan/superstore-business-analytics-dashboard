@@ -29,10 +29,21 @@ This Power BI dashboard analyzes Superstore sales performance, profit trends, cu
 - Top 10 Customers
 - Regional Sales Map
 
+## Skills Demonstrated
+- Data Cleaning
+- DAX Measures
+- Power Query
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+- KPI Reporting
+
 ## Business Insights
-- Technology category generated highest sales
-- Some sub-categories had negative profit
-- West region performed better in overall sales
+- Technology category contributed highest revenue.
+- Furniture category had low profit margins.
+- High discounts reduced profitability.
+- Western region achieved highest sales.
+- Corporate customers generated strong repeat purchases.
 
 ## Dataset
 Sample Superstore Dataset https://www.kaggle.com/datasets/yesshivam007/superstore-dataset
